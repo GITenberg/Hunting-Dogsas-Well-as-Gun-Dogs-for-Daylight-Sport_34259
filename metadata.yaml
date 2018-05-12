@@ -1,0 +1,29 @@
+_repo: Hunting-Dogsas-Well-as-Gun-Dogs-for-Daylight-Sport_34259
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34259-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hartley, Oliver
+    gutenberg_agent_id: '36907'
+    url: http://www.gutenberg.org/2009/agents/36907
+description: ''
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2010-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34259'
+  lccn: 09028708
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'Hunting'
+- !lcsh 'Dogs'
+title: "Hunting Dogs\r\nDescribes in a Practical Manner the Training, Handling, Treatment,\
+  \ Breeds, Etc., Best Adapted for Night Hunting as Well as Gun Dogs for Daylight\
+  \ Sport"
+url: http://www.gutenberg.org/ebooks/34259
